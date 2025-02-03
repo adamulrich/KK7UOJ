@@ -2,7 +2,9 @@
 
 After watching a summary of using power tool batteries as your power supply for your radio, I decided to try my hand with the batteries I have around the house.
 
-I have 2 56v 5ah li-ion batteries that work with my EGO power tools. Note that 5Ah @56v = 23Ah @ 12v. My radio draws 0.2A standby, 0.3A rx, 4.0 tx.using a 90 - 5 - 5 duty cycle, I calculate that 1 battery will last 58 hours.
+I have 2 56v 5ah li-ion batteries that work with my EGO power tools. Note that 5Ah @56v = 23Ah @ 12v. My radio draws 0.2A standby, 0.3A rx, 4.0 tx. 
+
+Using a 90 sb / 5 rx - 5 tx duty cycle, I calculate that 1 battery will last 58 hours.
 
 
 <img src="/56v%20ego%20battery/pictures/IMG_20250130_180505084.jpg" width="500">
