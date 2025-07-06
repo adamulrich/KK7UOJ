@@ -30,7 +30,7 @@ The ATU-100 operates on 12-15 volts input. For field operation, they've included
 <img src="pictures/IMG_20250704_140837706.jpg" width="500">
 
 # Antenna - 1:9 Balun dipole
-For an antenna, I picked up this [1:9 Balun](https://www.amazon.com/dp/B00R09WHT6), and some [Amazon Basics 100ft speaker wire](https://www.amazon.com/dp/B006LW0W5Y). 
+For an antenna, for $15, I picked up this [1:9 Balun](https://www.amazon.com/dp/B00R09WHT6), and for $10 some [Amazon Basics 100ft speaker wire](https://www.amazon.com/dp/B006LW0W5Y). 
 
 <img src="pictures/1-9-Balun.png" width="300">
 
